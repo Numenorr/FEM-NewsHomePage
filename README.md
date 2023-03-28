@@ -8,7 +8,7 @@ Solução para o desafio [News homepage](https://www.frontendmentor.io/challenge
 
 ### 🔗 Links
 
-- [Live Demo](https://numenorr.github.io/FEM-resultsComponent/)
+- [Live Demo](https://numenorr.github.io/FEM-NewsHomePage/)
 
 ### 💡 Feito com
 
